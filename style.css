@@ -1,0 +1,49 @@
+body {
+    font-family: 'Tangerine', serif;
+    background-color: aquamarine;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+   
+}
+.form-control {
+    width: 200px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline;
+    justify-content: space-around;
+}
+
+.header-container {
+    width: 100%;
+    padding: 20px;
+    background-color: lightcoral;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: flex-start;
+}
+
+.container {
+    font-family: 'Open Sans', sans-serif;
+    justify-content: flex-end;
+}
+
+.table {
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    width: 900px;
+    background-color: lemonchiffon;
+    border-block-end: 1px solid black;
+    height: 100px;
+    justify-content: flex-end;
+}
+.footer{
+    width: 100%;
+    background-color: lightcoral;
+    align-self: auto;
+}
+
+
+
+
+
+    /* I give up...I cannot get them side by side...what am I missing?
